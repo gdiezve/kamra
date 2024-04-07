@@ -1,4 +1,4 @@
-# TFG_2DPlatformGame
+# Games Job Fair Spring 2024 - Unity Programming Challenge
 
 You can play the game by clicking [here](https://kamra-1-cleopatras-crown.herokuapp.com/).
 
